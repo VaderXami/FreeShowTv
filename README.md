@@ -1,6 +1,6 @@
 # FreeShowTV
 
-A amaziiiing video search App directly connected to themoviedb !
+FreeShowTV is an application with the focus of scrolling to the latest movies available and is connected to The Movie Database API !
 
 # Getting Started
 
